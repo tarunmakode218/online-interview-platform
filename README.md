@@ -8,11 +8,7 @@ Highlights:
 - 🖥️ Screen Sharing
 - 🎬 Screen Recording
 - 🔒 Authentication & Authorization
-- 💻 Server Components, Layouts, Server Actions
-- 🎭 Client & Server Components
-- 🛣️ Dynamic & Static Routes
-- 🎨 Styling with Tailwind & Shadcn
-- ✨ Server Actions
+  
 
 ### Setup .env file
 
